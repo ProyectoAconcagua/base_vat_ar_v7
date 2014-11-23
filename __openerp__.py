@@ -41,6 +41,7 @@
     'update_xml': [
         'partner_view.xml',
         'partner_data.xml',
+        'security/ir.model.access.csv',
         ],
     'demo_xml': [],
     'installable': True,
